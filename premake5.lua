@@ -2,5 +2,6 @@ project "spdlog"
     kind "None"
 
     files {
-        "include/**"
+        "include/**",
+        "premake5.lua"
     }
